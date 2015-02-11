@@ -1,11 +1,12 @@
 # =============== #
 # Unity generated #
 # =============== #
-/Temp/
-/Obj/
-/obj/
-/UnityGenerated/
-/Library/
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Uu]nity[Gg]enerated/
+sysinfo.txt
  
 # ===================================== #
 # Visual Studio / MonoDevelop generated #
